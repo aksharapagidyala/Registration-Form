@@ -5,4 +5,3 @@
 - **How to Run:** Open `INDEX.html` in a browser. Ensure `STYLE.CSS` is in the same directory.  
 - **Contributing:** Open to suggestions and contributions.  
 - **License:** Specify if you have one, or I can add an open-source license.  
-
